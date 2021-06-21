@@ -2,3 +2,5 @@ welcome to namway
 restaurent
 pooja article
 medicines
+fruits
+vegetables
