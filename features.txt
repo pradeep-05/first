@@ -5,4 +5,10 @@ medicines
 fruits
 vegetables
 dry fruits
+
+milk 
+curd
+
+
 done with all changes
+
